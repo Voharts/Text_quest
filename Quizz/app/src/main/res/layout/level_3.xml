@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:padding="8dp">
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="апопо"
+                android:textSize="24dp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:id="@+id/textViewThree1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 14"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <ImageView
+                android:id="@+id/way14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/qulon"/>
+
+            <TextView
+                android:id="@+id/textViewThree15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 14"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 14"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+            <TextView
+                android:id="@+id/textViewThree17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 14"
+                android:textSize="24dp"
+                android:textColor="#777777"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/buttonBack18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_strock_white_press_blue"
+                android:text="@string/back"
+                android:textSize="24sp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                />
+
+            <Button
+                android:id="@+id/buttonToGo19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_strock_white_press_blue"
+                android:text="@string/go"
+                android:textSize="24sp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Выбери цифру которая больше.\nВопросы могут повторяться, пока вы не наберете 20 очков</string>
+    <string name="leveloneEnd">"Поздравялем уровень пройден. \nА знаете ли что число семь считается счастливым"</string>
+</resources>

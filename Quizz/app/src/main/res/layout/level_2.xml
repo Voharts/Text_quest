@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:padding="8dp">
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textViewTwo0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 0"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+
+            <TextView
+                android:id="@+id/textViewTwo1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 1"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 2"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 3"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 4"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 5"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 6"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 7"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 8"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_yes0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_strock_white_press_blue"
+                    android:text="@string/stairs"
+                    android:textSize="20sp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/white"/>
+
+                <Button
+                    android:id="@+id/button_no0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_strock_white_press_blue"
+                    android:text="@string/lane"
+                    android:textSize="20sp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/white"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textViewTwo10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 10"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 11"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 12"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 13"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 14"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 16"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 16"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 17"
+                android:textColor="#ffffff"
+                android:textSize="24dp"/>
+
+            <TextView
+                android:id="@+id/textViewTwo18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 18"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textViewTwo19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 18"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+
+            <TextView
+                android:id="@+id/textViewTwo20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Строка 18"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/buttonNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_strock_white_press_blue"
+                android:text="@string/textcontinue"
+                android:textSize="18sp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                android:layout_gravity="center" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

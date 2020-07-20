@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">level:</string>
+    <string name="level1">level1</string>
+    <string name="textcontinue">Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="go">Go</string>
+
+
+</resources>
